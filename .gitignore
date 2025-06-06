@@ -7,7 +7,14 @@
 bin/
 obj/
 
-# Others
+# User-specific files
 *.log
 *.db
 *.DS_Store
+
+# Others
+*.sdf
+*.cache
+*.VC.db
+*.pidb
+*.svclog
